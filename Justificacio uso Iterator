@@ -1,0 +1,8 @@
+Hago uso del patron Iterator, ya que es uno de los que mejor permite demostrar el polimorfismo en la implementacion
+A partir del uso de interfaces.
+
+A pesar de parecer sencillo, cualquier error en la implementacion de metodos puede traer grandes problemas.
+
+En mi caso, al implementar el patron aplicado a un ArrayList, el cual era una opcion fácil y luego con un HashMap, al no considerar
+inicialmente los indices me trajo el considerar los errores por aproximademente 10 minutos para poder resolver y aplicar el patron en
+ambos tipos de Objetos
